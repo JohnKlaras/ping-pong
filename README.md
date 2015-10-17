@@ -13,7 +13,7 @@ This application asks the user to provide a number, and up submission, "ping-pon
 Running this app is as easy as pie  
 Listen up as I rap and I'll tell you why  
 all you have to do is [click right here](http://johnklaras.github.io/ping-pong/)  
-and Bruce Lee will fill your heart with ping-pong fear  
+and Bruce Lee will fill your eyes with ping-pong tears  
 
 
 ## Technologies Used
