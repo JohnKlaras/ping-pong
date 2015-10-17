@@ -1,0 +1,7 @@
+.whoWon ul {
+  list-style-type: none;
+}
+.results {
+  background-color: red;
+  display: none;
+}
