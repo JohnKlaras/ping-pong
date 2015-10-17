@@ -16,7 +16,7 @@ $(document).ready(function() {
         document.write("You lasted " + index + " volleys against Bruce Lee, but he still won.");
       }
     };
-
+    event.preventDefault();
   });
-    event.preventDefault;
+
 });
