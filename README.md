@@ -10,10 +10,10 @@ This application asks the user to provide a number, and up submission, "ping-pon
 
 ## Setup
 
-<p>Running this app is as easy as pie</p>
-<p>Listen up as I rap and I'll tell you why</p>
-<p>all you have to do is [click right here](http://johnklaras.github.io/ping-pong/)</p>
-<p>and Bruce Lee will fill your heart with ping-pong fear</p>
+Running this app is as easy as pie
+Listen up as I rap and I'll tell you why
+all you have to do is [click right here](http://johnklaras.github.io/ping-pong/)
+and Bruce Lee will fill your heart with ping-pong fear
 
 ## Technologies Used
 
