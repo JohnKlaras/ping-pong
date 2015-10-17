@@ -1,1 +1,8 @@
-var yourNum = prompt("Let's play ping pong. Please enter a number!");
+$(document).ready(function() {
+
+    $("#blank form").submit(function(event) {
+      var howManyMatches = $("input#matches").val();
+      console.log(howManyMatches);
+    });
+
+});
