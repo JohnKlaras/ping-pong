@@ -7,17 +7,19 @@ $(document).ready(function() {
       for (var index = 1; index <= howManyMatches; index += 1) {
         // console.log(index);
       if (index % 3 === 0 && index % 5 === 0) {
-        document.write("<li>Ping-pong! Bruce Lee won!</li>");
+        document.write("<li>Round " + index + ": Ping-pong! Bruce Lee won!</li>");
       } else if (index % 3 === 0) {
-        document.write("<li>Ping! Bruce Lee won!</li>");
+        document.write("<li>Round " + index + ": Ping! Bruce Lee won!</li>");
       } else if (index % 5 === 0) {
-        document.write("<li>Pong! Bruce Lee won!</li>");
+        document.write("<li>Round " + index + ": Pong! Bruce Lee won!</li>");
       } else {
-        document.write("<li>You lasted " + index + " volleys against Bruce Lee, but he still won.</li>");
+        document.write("<li>Round " + index + ": You lasted " + index + " volleys against Bruce Lee, but he still won.</li>");
       }
       event.preventDefault();
-    };
 
+
+    };
+    // $('li').prepend('Round' + index + ":");
   });
 
 });
