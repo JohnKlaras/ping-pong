@@ -1,12 +1,12 @@
 # _Bruce Lee Ping-Pong_
 
-##### _The standard Javascript Ping-Pong Test With a Dash of Bruce Lee, 10-16-2015_
+##### The standard Javascript Ping-Pong Test With a Dash of Bruce Lee, 10-16-2015
 
-#### By _**Rick Klaras**_
+#### By **Rick Klaras**
 
 ## Description
 
-_This application asks the user to provide a number, and up submission, "ping-pongs" up to the user's number, returning "ping" for numbers divisible by three, "pong" for numbers divisible by five, and "ping-pong" for numbers for which both of those conditions are true. _
+This application asks the user to provide a number, and up submission, "ping-pongs" up to the user's number, returning "ping" for numbers divisible by three, "pong" for numbers divisible by five, and "ping-pong" for numbers for which both of those conditions are true.
 
 ## Setup
 
@@ -17,7 +17,7 @@ and Bruce Lee will fill your heart with ping-pong fear
 
 ## Technologies Used
 
-_This page uses Bootstrap, jQuery, etc._
+This page uses Bootstrap, jQuery, etc.
 
 ### Legal
 
