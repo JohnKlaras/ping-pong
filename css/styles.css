@@ -1,7 +1,6 @@
 .whoWon {
   list-style-type: none;
   margin-top: 10px;
-  /*text-align: center;*/
   font-size: 2em;
 }
 #results {
@@ -14,6 +13,7 @@
  }
  h3 {
    text-align: center;
+   margin-bottom: 20px;
  }
  body {
    font-family: 'Roboto Slab' , serif;
@@ -26,6 +26,6 @@
   margin-top: 10vw;
   margin-bottom: -50px;
 }
-.matches {
-  display: inline;
+.form-group {
+  padding: 20px;
 }
