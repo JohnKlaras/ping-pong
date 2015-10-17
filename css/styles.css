@@ -1,7 +1,17 @@
-.whoWon ul {
+.whoWon {
   list-style-type: none;
 }
-.results {
-  background-color: red;
+#results {
   display: none;
+}
+ h1 {
+   font-family: 'Fascinate' , cursive;
+   font-size: 60px;
+   text-align: center;
+ }
+ body {
+   font-family: 'Roboto Slab' , serif;
+ }
+.centered {
+  text-align: center;
 }

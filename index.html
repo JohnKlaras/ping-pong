@@ -1,43 +1,58 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <script src="js/jquery-1.11.3.js"></script>
-    <script src="js/scripts.js"></script>
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
-    <link href="css/styles.css" rel="stylesheet" type="text/css" media="all">
-    <title>It's ping-pong time!</title>
-  </head>
-  <body>
-    <div class="container">
+
+<head>
+  <script src="js/jquery-1.11.3.js"></script>
+  <script src="js/scripts.js"></script>
+  <link href='https://fonts.googleapis.com/css?family=Fascinate|Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+  <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+  <link href="css/styles.css" rel="stylesheet" type="text/css" media="all">
+  <title>It's ping-pong time!</title>
+</head>
+
+<body>
+  <div class="container">
+
+    <div id="intro">
+
+      <div class="centered">
+        <img src="img/BL1I.jpg">
+      </div>
+
       <h1>Bruce Lee Wants to Play Ping-Pong!</h1>
+
       <h3>Bruce Lee just finished electro-shocking himself right in the muscles, and he wants to play nunchuck ping-pong! How many matches of ping-pong can you handle playing with Bruce Lee?</h3>
+      <div id="blank">
 
-
-         <div id = "blank">
-
-           <form>
-
-            <div class="form-group">
-              <label for="matches">How many matches will you play?</label>
-              <input id="matches" class="form-control" type="number">
-            </div>
-
+        <form>
+          <div class="form-group">
+            <label for="matches">How many matches will you play?</label>
+            <input id="matches" class="form-control" type="number">
+          </div>
+          <div class="centered">
             <button type="submit" class="btn">Enter the Dragon!</button>
-          </form>
+          </div>
 
-        </div>
-
-        <div class="results">
-          <h1>Bruce Lee Wins!</h1>
-          <ul class="whoWon">
-
-          </ul>
-
-        </div>
-        </div>
-
+        </form>
+      </div>
     </div>
 
+    <div id="results">
 
-  </body>
+      <div class="centered">
+        <img src="img/BL2I.jpg">
+      </div>
+
+      <h1>Bruce Lee Wins!</h1>
+
+      <div class="centered">
+        <a href="index.html" class="btn btn-default" >Try Again?</a>
+
+      </div>
+      <ul class="whoWon">
+
+      </ul>
+    </div>
+  </div>
+</body>
 </html>
