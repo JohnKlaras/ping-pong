@@ -18,7 +18,7 @@ and Bruce Lee will fill your eyes with ping-pong tears
 
 ## Technologies Used
 
-This page uses Bootstrap, jQuery, etc.
+This page uses Bootstrap, jQuery, etc. I also used Photoshop to give the images a consistent, painterly quality and add a ping-pong ball. 
 
 ### Legal
 
